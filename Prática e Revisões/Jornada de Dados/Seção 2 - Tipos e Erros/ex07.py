@@ -4,7 +4,7 @@
     AUTOR: WELLINGTON M. SANTOS
     DATA: 2026-09-11
     OBJETIVO:
-        - 
+        - COMPREENSÃO TYPEHINT
 """
 
 nome_da_selecao:str         = 'quirguistão'
